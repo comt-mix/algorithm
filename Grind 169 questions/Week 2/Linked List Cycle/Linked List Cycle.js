@@ -13,10 +13,11 @@ var hasCycle = function (head) {
 
   return head;
 };
+
 /**
  * 참고한 풀이법
  */
-const hasCycle = (head) => {
+var hasCycle = (head) => {
   let fast = head;
 
   while (fast && fast.next) {
