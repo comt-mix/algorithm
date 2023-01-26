@@ -1,6 +1,6 @@
 /**
  * 처음 풀었던 풀이법
- * val, next를 응용하는 방법을 몰라 실패
+ * testcases failed
  */
 
 /**

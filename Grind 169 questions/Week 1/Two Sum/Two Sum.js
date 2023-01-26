@@ -1,5 +1,6 @@
 /**
  * 처음 풀었던 풀이법
+ * testcases passed
  */
 
 var twoSum = function (nums, target) {

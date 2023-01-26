@@ -1,6 +1,6 @@
 /**
  * 처음 풀었던 풀이법
- * 시간제한 실패
+ * testcases failed
  */
 
 var isValid = function (s) {
