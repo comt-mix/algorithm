@@ -1,6 +1,6 @@
 /**
  * 처음 풀었던 풀이법
- * estcases passed failed / 시간초과
+ * Testcases passed failed / 시간초과
  */
 var coinChange = function (coins, amount) {
   if ((amount = 0)) return 0;
