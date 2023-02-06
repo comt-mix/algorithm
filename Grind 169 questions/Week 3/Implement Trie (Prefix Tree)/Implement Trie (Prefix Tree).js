@@ -1,10 +1,6 @@
 /**
  * 처음 풀었던 풀이법
- */
-
-/**
- * 참고한 풀이법
- * 개인적으로 이 풀이법 보면서 감탄함. 너무 좋은 풀이법.
+ * Testcases passed
  */
 const Trie = function () {
   this.root = {};
