@@ -1,6 +1,6 @@
 /**
  * 처음 풀었던 풀이법
- * testcases failed
+ * testcases passed
  */
 
 const majorityElement = (nums) => {
